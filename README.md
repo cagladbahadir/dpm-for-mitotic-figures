@@ -70,7 +70,7 @@ python -u train.py  --date "Current_Date" --optimizer 'Adam' --dataset "canine" 
 
 ### Model weights
 
-Model weights for the ResNet model and the diffusion model can be requested from cdb232@cornel.edu.
+Model weights for the ResNet model and the diffusion model can be requested from cdb232@cornell.edu.
 
 Diffusion model weights for the canine mitotic figure generation should be stored in the following path: **model_weights/diffusion_canine/model_checkpoint.pt**.
 
